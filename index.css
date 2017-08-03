@@ -1,0 +1,297 @@
+#bg-box{
+    background:url("images/317549_macbook_-with_-cup_1540x1027_www.Gde-Fon.com.jpg")no-repeat fixed center ;
+    background-size: cover;
+    box-shadow: inset 0 0 0 500px rgba(0, 0, 0, 0.4);
+    height: auto;
+}
+#header{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#header img{
+  width: 300px;
+    height: 350px;
+}
+#header h3{
+ color: white;
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #aaa;
+    text-align: center;
+
+}
+.form-box{
+
+    background: radial-gradient(darkgray 5%, transparent 16%) 0 0, radial-gradient(lightgray 5%, transparent 16%) 8px 8px;
+    background-color: white;
+    background-size: 7px 7px;
+    min-height: 250px;
+    margin-left: -15px;
+    margin-right: -15px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+.form-box h4{
+    font-size: 38px;
+}
+.form-box p{
+    font-size: 17px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.form-box h5{
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 35px;
+    text-shadow: 4px 4px 4px #aaa;
+}
+.form h6{
+    font-size: 20px;
+    width: 345px;
+    text-align:center;
+    letter-spacing: 1px;
+    line-height: 25px;
+
+}
+.form-group{
+    width: 345px;
+}
+.glyphicon{
+    font-size: 50px;
+    margin-top: 30px;
+    margin-left: 147px;
+    vertical-align: middle;
+
+}
+.choice-box{
+    background:url("images/317549_macbook_-with_-cup_1540x1027_www.Gde-Fon.com.jpg")no-repeat fixed center ;
+    background-size: cover;
+    box-shadow: inset 0 0 0 500px rgba(0, 0, 0, 0.4);
+    height: auto;
+    margin-left: -15px;
+    margin-right: -15px;
+
+}
+
+.choice-box h1{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 43px;
+    font-weight: 600;
+}
+.photo-size{
+
+}
+.photo-size img{
+    width: 280px;
+    height: 320px;
+    margin-top: 50px;
+}
+.photo-size p{
+    width: 280px;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.scale:hover {
+    transform: scale(1.1);
+    opacity: 1;
+    font-weight: 800;
+    font-size: 15px;
+}
+.choice-box h3{
+    color: white;
+    text-align: center;
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 31px;
+    margin-bottom: 50px;
+}
+.film-box{
+    background: radial-gradient(darkgray 5%, transparent 16%) 0 0, radial-gradient(lightgray 5%, transparent 16%) 8px 8px;
+    background-color: white;
+    background-size: 7px 7px;
+    min-height: 250px;
+
+
+
+}
+.film-box h1{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 43px;
+    font-weight: 600;
+    padding-bottom: 50px;
+
+}
+iframe {
+    margin: 0 auto;
+    display: block;
+}
+.film-box h2 {
+    font-family: 'Cabin Sketch', cursive;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+}
+.film-box p {
+    font-family: 'Cabin Sketch', cursive;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+.films-box{
+    background:url("images/317549_macbook_-with_-cup_1540x1027_www.Gde-Fon.com.jpg")no-repeat fixed center ;
+    background-size: cover;
+    box-shadow: inset 0 0 0 500px rgba(0, 0, 0, 0.4);
+    height: auto;
+    color: white;
+    text-align: center;
+
+}
+.films-box h1{
+    font-size: 43px;
+    font-weight: 600;
+    padding-top: 50px;
+    padding-bottom: 20px;
+
+}
+.films-box h4{
+    font-size: 31px;
+    font-weight: 600;
+
+
+}
+.films-box iframe{
+    margin-top: 40px;
+}
+.films-box button{
+    margin-top: 40px;
+    font-size: 20px;
+    background-color:  #d71e17;
+    font-weight: 600;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 15px;
+    margin-bottom: 50px;
+}
+.differences-box{
+
+    font-size: 43px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.differences-box h1{
+    font-size: 43px;
+    font-weight: 600;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.differences-box img{
+    width: 90%;
+}
+.capabilities-box{
+    text-align: center;
+    background:url("images/317549_macbook_-with_-cup_1540x1027_www.Gde-Fon.com.jpg")no-repeat fixed center ;
+    background-size: cover;
+    box-shadow: inset 0 0 0 500px rgba(0, 0, 0, 0.4);
+    height: auto;
+    color: white;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.capabilities-box h1{
+    font-size: 43px;
+    font-weight: 600;
+    padding-bottom: 50px;
+}
+
+.goals{
+    background: radial-gradient(darkgray 5%, transparent 16%) 0 0, radial-gradient(lightgray 5%, transparent 16%) 8px 8px;
+    background-color: white;
+    background-size: 7px 7px;
+    min-height: 700px;
+
+}
+.goals h1{
+    font-size: 43px;
+    font-weight: 600;
+    padding-top: 50px;
+    padding-bottom: 20px;
+
+}
+.goals ul li{
+    font-size: 16px;
+    line-height: 30px;
+
+}
+.sign-up-box{
+    background:url("images/317549_macbook_-with_-cup_1540x1027_www.Gde-Fon.com.jpg")no-repeat fixed center ;
+    background-size: cover;
+    box-shadow: inset 0 0 0 500px rgba(0, 0, 0, 0.4);
+    height: auto;
+    color: white;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.sign-up-box h3{
+text-align: center;
+    padding-bottom: 50px;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 30px;
+}
+.sign-up-box button{
+    margin-top: 40px;
+    font-size: 20px;
+    background-color:  #d71e17;
+    font-weight: 600;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 15px;
+    margin-bottom: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.galery{
+    background: radial-gradient(darkgray 5%, transparent 16%) 0 0, radial-gradient(lightgray 5%, transparent 16%) 8px 8px;
+    background-color: white;
+    background-size: 7px 7px;
+    margin-left: -15px;
+    margin-right: -15px;
+    padding-bottom: 80px;
+
+
+}
+.galery h1{
+    font-size: 43px;
+    font-weight: 600;
+    padding-top: 50px;
+    padding-bottom: 50px;
+ text-align: center;
+
+}
+
+.galery img{
+    width: 800px;
+    height: 500px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.slide{
+    width: 800px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
